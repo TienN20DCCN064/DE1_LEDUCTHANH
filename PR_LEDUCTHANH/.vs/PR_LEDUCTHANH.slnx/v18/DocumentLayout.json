@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD07362-9674-034E-5D5F-66CD91CE2B23}|PR_LEDUCTHANH\\PR_LEDUCTHANH.csproj|e:\\de1_leducthanh\\pr_leducthanh\\pr_leducthanh\\frm_de1_leducthanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD07362-9674-034E-5D5F-66CD91CE2B23}|PR_LEDUCTHANH\\PR_LEDUCTHANH.csproj|solutionrelative:pr_leducthanh\\frm_de1_leducthanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD07362-9674-034E-5D5F-66CD91CE2B23}|PR_LEDUCTHANH\\PR_LEDUCTHANH.csproj|e:\\de1_leducthanh\\pr_leducthanh\\pr_leducthanh\\frm_de1_leducthanh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDD07362-9674-034E-5D5F-66CD91CE2B23}|PR_LEDUCTHANH\\PR_LEDUCTHANH.csproj|solutionrelative:pr_leducthanh\\frm_de1_leducthanh.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD07362-9674-034E-5D5F-66CD91CE2B23}|PR_LEDUCTHANH\\PR_LEDUCTHANH.csproj|e:\\de1_leducthanh\\pr_leducthanh\\pr_leducthanh\\frm_de1_leducthanh.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{DDD07362-9674-034E-5D5F-66CD91CE2B23}|PR_LEDUCTHANH\\PR_LEDUCTHANH.csproj|solutionrelative:pr_leducthanh\\frm_de1_leducthanh.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{089100B1-113F-4E66-888A-E83F3999EAFD}|Solution Items{089100B1-113F-4E66-888A-E83F3999EAFD}|solutionrelative:DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDD07362-9674-034E-5D5F-66CD91CE2B23}|PR_LEDUCTHANH\\PR_LEDUCTHANH.csproj|e:\\de1_leducthanh\\pr_leducthanh\\pr_leducthanh\\frm_de1_leducthanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDD07362-9674-034E-5D5F-66CD91CE2B23}|PR_LEDUCTHANH\\PR_LEDUCTHANH.csproj|solutionrelative:pr_leducthanh\\frm_de1_leducthanh.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Frm_De1_LEDUCTHANH.cs",
+              "DocumentMoniker": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.cs",
+              "RelativeDocumentMoniker": "PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.cs",
+              "ToolTip": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.cs",
+              "RelativeToolTip": "PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAvwJIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T14:25:33.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Frm_De1_LEDUCTHANH.cs [Design]",
+              "DocumentMoniker": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.cs",
+              "RelativeDocumentMoniker": "PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.cs",
+              "ToolTip": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.cs [Design]",
+              "RelativeToolTip": "PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:52:08.064Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Frm_De1_LEDUCTHANH.Designer.cs",
+              "DocumentMoniker": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.Designer.cs",
+              "RelativeDocumentMoniker": "PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.Designer.cs",
+              "ToolTip": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.Designer.cs",
+              "RelativeToolTip": "PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.Designer.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:52:06.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Frm_De1_LEDUCTHANH.resx",
+              "DocumentMoniker": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.resx",
+              "RelativeDocumentMoniker": "PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.resx",
+              "ToolTip": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.resx",
+              "RelativeToolTip": "PR_LEDUCTHANH\\Frm_De1_LEDUCTHANH.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-12T13:52:04.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DBInit.cs",
+              "DocumentMoniker": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\DBInit.cs",
+              "RelativeDocumentMoniker": "DBInit.cs",
+              "ToolTip": "E:\\DE1_LEDUCTHANH\\PR_LEDUCTHANH\\DBInit.cs",
+              "RelativeToolTip": "DBInit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T13:36:20.644Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
